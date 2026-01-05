@@ -13,9 +13,6 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-<<<<<<< HEAD
-            Text("Hello, world - from test again!")
-=======
             Text("Hello, world - from test!")
 >>>>>>> main
         }
